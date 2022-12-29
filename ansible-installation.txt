@@ -8,7 +8,7 @@ On Fedora:
 $ sudo dnf install ansible
 On CentOS:
 $ sudo yum install epel-release
-$ yum install git python python-level python.pp openssl ansible -y
+$ yum install git python python-level python.pip openssl ansible -y
 $ sudo yum install ansible
 
-### yum install git python python-level python.pp openssl ansible -y (this is required)
+### yum install git python python-level python.pip openssl ansible -y (this is required)
